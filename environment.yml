@@ -167,5 +167,5 @@ dependencies:
     - libgcc-ng==8.2.0
 
 
-prefix: /home/emaraic/anaconda3/envs/pytorch
+
 
